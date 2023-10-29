@@ -10,7 +10,7 @@ This is an Azubi Todo Project carried out using HCL in order to use Terraform to
     * CodeCarnival
 
 ### Snapshot of Buckets Created in AWS Cloud Console
-![awsimage](./images/succesful-creation.png)
+![awsimage](https://github.com/SESUGH-OPS/Azubi-s3-terraform/blob/main/succesful-creation.png)
 
 
 ### Snapshot of Successful Creation of Buckets in bash-shell
